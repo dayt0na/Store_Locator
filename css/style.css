@@ -1,4 +1,4 @@
-html, body, .container-fluid, #map_canvas {
+html, body, .container-fluid {
     height:100%;
     font-family: 'Open Sans Condensed', sans-serif;
 	font-size: 15px;
